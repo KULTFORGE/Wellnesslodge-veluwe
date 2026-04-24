@@ -98,6 +98,45 @@ export const faq = [
   },
 ]
 
+export const reviews = [
+  {
+    naam:   'Maud V.',
+    score:  9,
+    datum:  'Augustus 2024',
+    tekst:  'De omgeving, de vakantiewoning, het welkomstservicepakket en de privacy van de tuin. Echt een aanrader.',
+  },
+  {
+    naam:   'Rebecca B.',
+    score:  8,
+    datum:  'Augustus 2024',
+    tekst:  'De hottub en sauna waren heel fijn. Heerlijk om zo privé te kunnen ontspannen.',
+  },
+  {
+    naam:   'Fred K.',
+    score:  9,
+    datum:  'Juni 2024',
+    tekst:  'Medewerkers, de omgeving en het park. Zeker voor herhaling vatbaar.',
+  },
+  {
+    naam:   'Elisa V.',
+    score:  9,
+    datum:  'Augustus 2024',
+    tekst:  'We hebben echt genoten! Een geweldige plek om even helemaal tot rust te komen.',
+  },
+  {
+    naam:   'Lisanne G.',
+    score:  8,
+    datum:  'Augustus 2024',
+    tekst:  'De grote tuin en hoe netjes het park en de huisjes waren. Top verzorgd.',
+  },
+  {
+    naam:   'Simon B.',
+    score:  9,
+    datum:  'Juni 2024',
+    tekst:  'Het zwembad, de rustige periode en alles was schoon. Zeker voor herhaling vatbaar.',
+  },
+]
+
 export const danny = {
   naam:    'Danny',
   tekst:   '[DANNY_BIO: 2-3 zinnen. Persoonlijk, warm. Waarom hij de lodge begon, wat hij wil dat gasten ervaren.]',
