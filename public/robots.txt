@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://wellnesslodge-veluwe.nl
+
+# Sitemaps
+Sitemap: https://wellnesslodge-veluwe.nl/sitemap.xml
