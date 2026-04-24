@@ -158,6 +158,7 @@ export const galerij = [
   { src: '/images/gallery/ext-lodge.webp',    thumb: '/images/gallery/thumbs/ext-lodge.webp',    alt: 'Wellness lodge Veluwe van buiten' },
   { src: '/images/gallery/hottub.webp',        thumb: '/images/gallery/thumbs/hottub.webp',        alt: 'Privé hottub wellness lodge Veluwe' },
   { src: '/images/gallery/sauna.webp',         thumb: '/images/gallery/thumbs/sauna.webp',         alt: 'Privé sauna voor 4 personen' },
+  { src: '/images/gallery/sauna-int.webp',     thumb: '/images/gallery/thumbs/sauna-int.webp',     alt: 'Interieur privé sauna wellness lodge Veluwe' },
   { src: '/images/gallery/woonkamer.webp',     thumb: '/images/gallery/thumbs/woonkamer.webp',     alt: 'Woonkamer wellness lodge' },
   { src: '/images/gallery/slaapkamer-1.webp', thumb: '/images/gallery/thumbs/slaapkamer-1.webp',  alt: 'Slaapkamer 1 met boxspring' },
   { src: '/images/gallery/slaapkamer-2.webp', thumb: '/images/gallery/thumbs/slaapkamer-2.webp',  alt: 'Slaapkamer 2' },
