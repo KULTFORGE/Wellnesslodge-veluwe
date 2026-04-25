@@ -14,12 +14,13 @@ const config: Config = {
         sand:   '#F2E8D9',
         cream:  '#FAF6F0',
         moss:   '#5C7A52',
-        amber:  '#B6802C',
+        amber:  '#B6802C', // Overrides Tailwind's amber scale — use this single token only
         stone:  '#8B7D6B',
+        white:  '#FEFEFE',
       },
       fontFamily: {
-        serif: ['DM Serif Display', 'Georgia', 'serif'],
-        sans:  ['Inter', 'system-ui', 'sans-serif'],
+        serif: ['var(--font-serif)', 'Georgia', 'serif'],
+        sans:  ['var(--font-sans)', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
         'ring':       '0 0 0 1px #8B7D6B',

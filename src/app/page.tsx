@@ -7,6 +7,7 @@ import PraktischSection from '@/components/sections/PraktischSection'
 import ReviewsSection from '@/components/sections/ReviewsSection'
 import ParkSection from '@/components/sections/ParkSection'
 import OmgevingSection from '@/components/sections/OmgevingSection'
+import BlogsSection from '@/components/sections/BlogsSection'
 import FAQSection from '@/components/sections/FAQSection'
 import OverDannySection from '@/components/sections/OverDannySection'
 import LocatieSection from '@/components/sections/LocatieSection'
@@ -24,6 +25,7 @@ export default function Home() {
       <ReviewsSection />
       <ParkSection />
       <OmgevingSection />
+      <BlogsSection />
       <FAQSection />
       <OverDannySection />
       <LocatieSection />
