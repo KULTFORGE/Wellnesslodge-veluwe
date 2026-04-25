@@ -25,7 +25,7 @@ export const faciliteiten = [
   { icon: 'Droplets',   label: 'Privé hottub',      description: 'Hottub voor 4 personen in de omheinde tuin.' },
   { icon: 'TreePine',   label: 'Omheinde tuin',     description: 'Ruime, volledig omheinde tuin voor totale privacy.' },
   { icon: 'Wind',       label: 'Airconditioning',   description: 'Aanwezig in de slaapkamers en woonkamer.' },
-  { icon: 'Shower',     label: 'Buitendouche',      description: 'Warm en koud, direct naast de tuin.' },
+  { icon: 'ShowerHead', label: 'Buitendouche',      description: 'Warm en koud, direct naast de tuin.' },
   { icon: 'PawPrint',   label: 'Huisdieren welkom', description: 'Je viervoetige vriend is van harte welkom.' },
   { icon: 'Car',        label: 'Gratis parkeren',   description: 'Eigen parkeerplaats direct naast de lodge.' },
   { icon: 'Wifi',       label: 'Gratis WiFi',       description: 'Snelle verbinding in het hele huis.' },
