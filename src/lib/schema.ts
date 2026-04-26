@@ -29,6 +29,20 @@ export function getLodgingSchema() {
     petsAllowed:   true,
     checkinTime:   '15:00',
     checkoutTime:  '11:00',
+    image: 'https://wellnesslodge-veluwe.nl/images/hero/hero-main.webp',
+    priceRange: '€€',
+    sameAs: [
+      'https://www.instagram.com/wellnesslodge.veluwe',
+      // Voeg toe zodra Google Business Profile live is:
+      // 'https://maps.google.com/?cid=[google-business-id]',
+    ],
+    // Voeg toe zodra je het echte aantal reviews weet van BookingExperts:
+    // aggregateRating: {
+    //   '@type': 'AggregateRating',
+    //   ratingValue: '8.7',
+    //   bestRating: '10',
+    //   ratingCount: '47',
+    // },
   }
 }
 
