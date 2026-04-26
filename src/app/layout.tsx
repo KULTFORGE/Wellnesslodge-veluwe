@@ -19,6 +19,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://wellnesslodge-veluwe.nl'),
   title: 'Wellnesslodge Veluwe | Privé sauna & hottub bij Edese bos',
   description: 'Ontspan in onze luxe wellness lodge op de Veluwe. Privé sauna, hottub en ruime tuin. Op 100m van het Edese bos. Direct boeken.',
   keywords: ['wellness lodge Veluwe', 'privé sauna Veluwe', 'hottub Veluwe', 'wellness huisje Ede', 'vakantiehuisje sauna Veluwe'],
