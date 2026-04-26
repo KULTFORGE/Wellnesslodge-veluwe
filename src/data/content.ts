@@ -15,8 +15,8 @@ export const meta = {
     country:  'Nederland',
   },
   coordinates: {
-    lat: '[LAT]',
-    lng: '[LNG]',
+    lat: '52.067113817750986',
+    lng: '5.669353402238071',
   },
 }
 
