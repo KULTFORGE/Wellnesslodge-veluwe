@@ -40,7 +40,7 @@ export default function LocatieSection() {
               4. Replace the pb= value below with the actual embed URL
             */}
             <iframe
-              src="https://www.google.com/maps/embed?pb=REPLACE_WITH_ACTUAL_MAPS_EMBED_URL"
+              src="https://maps.google.com/maps?q=52.067113817750986,5.669353402238071&z=17&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}
